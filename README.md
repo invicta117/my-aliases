@@ -11,12 +11,12 @@ git clone https://github.com/invicta117/my-aliases.git
 ```
 Source the aliases file in your shell configuration:
 
-Open your .zshrc or .zprofile file:
+Open your .bashrc or .zshrc file:
 ```bash
 nano ~/.bashrc
 ```
 
-Add the following line to source the aliases file:
+Add the following line to your run commands file:
 ```bash
 source /path/to/my-aliases/my-aliases.sh
 ```
